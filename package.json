@@ -1,0 +1,27 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarniaTu/JestFirstTry.git"
+  },
+  "keywords": [
+    "jest",
+    "test"
+  ],
+  "author": "Marina Turbina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarniaTu/JestFirstTry/issues"
+  },
+  "homepage": "https://github.com/MarniaTu/JestFirstTry#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
